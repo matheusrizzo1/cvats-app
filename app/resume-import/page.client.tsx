@@ -27,7 +27,7 @@ export default function ClientPage() {
               {!hasAddedResume && (
                 <SectionWithHeadingAndCreateButton
                   heading="Não tem um currículo ainda?"
-                  buttonText="Criar novo cúrriculo"
+                  buttonText="Criar novo currículo"
                 />
               )}
             </>
