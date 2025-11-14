@@ -8,8 +8,8 @@ import { useTailwindBreakpoints } from "@/app/lib/hooks/useTailwindBreakpoints";
 const logoSrc = "/logo.svg";
 
 const menuItems = [
-  ["/resume-builder", "Criar Cúrriculo"],
-  ["/resume-parser", "Análisar ATS"],
+  ["/resume-builder", "Criar Currículo"],
+  ["/resume-parser", "Analisar ATS"],
   ["/about", "Sobre o Projeto"],
 ];
 
